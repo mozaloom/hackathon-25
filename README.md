@@ -1,1 +1,1 @@
-# taskflow-ai
+# TravelPal: AI Navigation App
